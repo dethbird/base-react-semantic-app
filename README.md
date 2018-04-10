@@ -1,11 +1,12 @@
-# fb-authenticator
-Enter your Facebook appId and appSecret to generate a user authToken
+# react-semantic-app
+vanilla react and semantic app
 
 #### Composer install
 ```bash
 curl -sS https://getcomposer.org/installer | php
 php composer.phar install
 ```
+
 
 #### Permissions
 ```bash
